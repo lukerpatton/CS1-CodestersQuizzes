@@ -1,0 +1,74 @@
+Kahoot Practice Quizzes for Codesters Lessons
+
+Master List
+https://create.kahoot.it/profiles/0e37fb63-74bc-4863-a4b6-3582fb0bd71a
+
+
+Python 2
+
+P2 L10: Party Invitation
+https://create.kahoot.it/share/p-2-10-party-invitation/7cad846f-6b2f-4e79-ae27-de299e8671b3
+
+P2 L11: Around the Solar System
+https://create.kahoot.it/share/p-2-11-around-the-solar-system/3f0af031-659b-4836-b84e-702f7c723f36
+
+P2 L12: Secret Code
+https://create.kahoot.it/share/p-2-12-secret-code/68ef611c-f4b7-41f7-8c0f-a081d582aeea
+
+P2 L13: Stick Figures
+https://create.kahoot.it/share/p-2-13-stick-figures/149fd234-dccd-4a1b-8232-a966da494956
+
+P2 L14: Leap Year
+https://create.kahoot.it/share/p-2-14-leap-year/90e3b2b7-edb4-4d07-a43f-e8b598cd55b4
+
+P2 L15: Refactoring 2
+https://create.kahoot.it/share/p-2-15-refactoring-2/d80a068a-2579-419a-9a9c-adc6d6e48e84
+
+P2 L16: Astronaut Rescue
+https://create.kahoot.it/share/p-2-16-astronaut-rescue/e1c53ac7-2b79-472e-8676-4efd24439ac8
+
+P2 L17: Save the Moon!
+https://create.kahoot.it/share/p-2-17-save-the-moon/54f4f5f6-0a45-40ad-bde0-9ad67a004908
+
+P2 L18: Wizard Duel
+https://create.kahoot.it/share/p-2-18-wizard-duel/06cfc4f2-a8c7-4478-b247-41b08c2eb37f
+
+P2 L19: Concept Review
+https://create.kahoot.it/share/p-2-19-concept-review/5a0a0dc3-9d3f-4a7a-b29e-e9df64b52ed7
+
+P2 L20a: Final - Brick Breaker
+https://create.kahoot.it/share/p-2-20-brick-breaker-final/23ba4dd1-919b-482f-b599-28daea589fa4
+
+
+
+Python 3
+
+Lesson 1: Arcade Game
+https://create.kahoot.it/share/p-3-1-arcade-game/0d035d06-376d-44d9-bf40-0c47abdae44d
+
+Lesson 2: Animal Classifier
+https://create.kahoot.it/share/p-3-2-animal-classifier/afa29640-60a1-4066-b546-59e383da2286
+
+Lesson 3: Time of Day
+https://create.kahoot.it/share/p-3-3-time-of-day/bbf95feb-cda0-4fbc-9d54-f4171d0ea9ff
+
+Lesson 4: Grade Calculator
+https://create.kahoot.it/share/p-3-4-grade-calculator/82266abe-fc05-4329-86f7-11257b5a6022
+
+Lesson 5: Alien Whack-a-Mole
+https://create.kahoot.it/share/p-3-5-alien-whack-a-mole/c63f9103-205e-40bb-a565-6a5a2b7a3521
+
+Lesson 6: High Score
+https://create.kahoot.it/share/p-3-6-high-score/dbfa5ddb-260a-444a-a834-21a914cc9d09
+
+Lesson 7: Enter Password
+https://create.kahoot.it/share/p-3-7-enter-password/9ceb9da4-0ab0-43c3-b195-d1f632fe656b
+
+Lesson 8: Starry Night
+https://create.kahoot.it/share/p-3-8-starry-night/75746105-fb1d-4d1a-9287-5b74ed9c32b0
+
+Lesson 9: Ice Cream Shoppe
+https://create.kahoot.it/share/p-3-9-ice-cream-shoppe/fd849713-0498-485d-b668-65a437519f69
+ 
+P.3.10 Maze Maker
+https://create.kahoot.it/share/p-3-10-maze-maker/09e4d3a9-bc3e-44a0-8397-92dbd65f972b
